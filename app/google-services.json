@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "174916144681",
+    "firebase_url": "https://mytextml.firebaseio.com",
+    "project_id": "mytextml",
+    "storage_bucket": "mytextml.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174916144681:android:eb6eb493c6197fbb",
+        "android_client_info": {
+          "package_name": "com.example.boltzmann.mytextml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174916144681-2tnu1gph6js4o8k4io5neqs5fvvsr4dm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.boltzmann.mytextml",
+            "certificate_hash": "c82c86f876118bdb75d1e33e7eb638c32c8ce6c1"
+          }
+        },
+        {
+          "client_id": "174916144681-bh91ga91q689sub3mf0o3dgjlmg9tvqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2ZUXyfvAKGdveKFBOiZjQVn7QVslz9h4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174916144681-bh91ga91q689sub3mf0o3dgjlmg9tvqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
